@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://slavicscally.com
+Sitemap: https://slavicscally.com/sitemap.xml
