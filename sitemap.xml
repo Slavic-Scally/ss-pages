@@ -1,11 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://slavicscally.com/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
 <image:image>
 <image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
 </image:image>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/es/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/fr/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/pt/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/ru/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/zh/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/ja/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://slavicscally.com/ko/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://slavicscally.com/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://slavicscally.com/es/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://slavicscally.com/fr/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://slavicscally.com/pt/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://slavicscally.com/ru/" />
+<xhtml:link rel="alternate" hreflang="zh" href="https://slavicscally.com/zh/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://slavicscally.com/ja/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://slavicscally.com/ko/" />
+<image:image>
+<image:loc>https://slavicscally.com/opengraph-image.jpeg</image:loc>
+</image:image>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 </urlset>
