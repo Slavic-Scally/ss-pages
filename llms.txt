@@ -14,7 +14,7 @@ The site is available in 14 languages: English (/), Spanish (/es/), French (/fr/
 
 ## FAQ
 
-- How do I get access? Open the Telegram bot (https://t.me/slavic_scally_bot?start=website), pick a payment method and pay there; access to the private channel comes through the same bot.
+- How do I get access? Open the Telegram bot (https://t.me/slavic_scally_bot?start=_web_0_llms_none), pick a payment method and pay there; access to the private channel comes through the same bot.
 - Can I pay without a card? Yes: Telegram Stars or crypto (Bitcoin, Ethereum, USDT, USDC, Monero and more).
 - Can I see the videos before paying? Yes: free teasers cut from the full videos are on the Telegram teaser channel and on X.
 - What if there are no new videos? A new full-length video drops almost every week; after more than 14 days without one, the subscription is extended by a week for free.
@@ -23,7 +23,7 @@ The site is available in 14 languages: English (/), Spanish (/es/), French (/fr/
 ## Official links
 
 - [Website](https://slavicscally.com/)
-- [Private Telegram (subscribe)](https://t.me/slavic_scally_bot?start=website)
+- [Private Telegram (subscribe)](https://t.me/slavic_scally_bot?start=_web_0_llms_none)
 - [Telegram channel](https://t.me/Slavic_Porn)
 - [X](https://x.com/SlavicSyndicate)
 - [Fansly](https://fansly.com/SlavicSyndicate/t0)
