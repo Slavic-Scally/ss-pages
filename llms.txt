@@ -9,7 +9,7 @@ The site is available in 14 languages: English (/), Spanish (/es/), French (/fr/
 - Private Telegram channel: full archive, exclusive weekly drops and early access for $19/month (about $0.6 a day), guaranteed cheaper than on the studio's other platforms.
 - Independent rating: 9.6/10 from 30+ subscriber reviews on Fan.Reviews.
 - Combined audience: 40K+ fans across all platforms; NPS 82 among paying subscribers.
-- Identity: verified with an Ethereum Attestation Service (EAS) attestation on Base.
+- Identity: full ID verification with documents and verified badges on Fansly, FapHouse, Pornhub, MintStars and X, plus an Ethereum Attestation Service (EAS) attestation on Base.
 - Payment: bank cards, Telegram Stars, and crypto (BTC, LTC, XMR, ETH, SOL, TRX, USDC, USDT).
 
 ## FAQ
