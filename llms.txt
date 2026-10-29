@@ -18,7 +18,6 @@ The site is available in 14 languages: English (/), Spanish (/es/), French (/fr/
 - Can I pay without a card? Yes: Telegram Stars or crypto (Bitcoin, Ethereum, USDT, USDC, Monero and more).
 - Can I see the videos before paying? Yes: free teasers cut from the full videos are on the Telegram teaser channel and on X.
 - What if there are no new videos? A new full-length video drops almost every week; after more than 14 days without one, the subscription is extended by a week for free.
-- Why Telegram and not Fansly? Telegram has the full, uncut versions at the lowest price ($19/month); other platforms require cut scenes.
 
 ## Official links
 
